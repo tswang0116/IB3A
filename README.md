@@ -16,6 +16,11 @@ We use three cross-modal datasets for experiments. Since MS-COCO do not have com
 * MS-COCO: https://pan.baidu.com/s/1ocZTVx1GFFdceoSYbIWkbQ <br> Password: 2a6l
 * NUS-WIDE: https://pan.baidu.com/s/1Yvqt4Bdjsq1gPaJn2IqIEw <br> Password: doi1
 
+## Knockoffs
+We provide an knockoff of 32-bit DCMH on the FLICKR-25K dataset. The knockoff can be obtained by the following link:
+
+* The Trained 32-bit DCMH on FLICKR-25K: https://pan.baidu.com/s/1JcQd_SepWVz-Js4X8yqjPQ?pwd=b6sd <br> Password: b6sd
+
 ## Victim models
 We carry out backdoor attack for three cross-modal hashing methods, including DCMH, CPAH, DADH. All attacked hashing models can be obtained by the following link:
 
