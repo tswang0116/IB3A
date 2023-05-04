@@ -16,7 +16,7 @@ We used three cross-modal datasets for experiments. Since MS-COCO do not have co
 * MS-COCO: https://pan.baidu.com/s/1ocZTVx1GFFdceoSYbIWkbQ <br> Password: 2a6l
 * NUS-WIDE: https://pan.baidu.com/s/1Yvqt4Bdjsq1gPaJn2IqIEw <br> Password: doi1
 
-## Train attacked hashing models
+## Victim models
 We carry out backdoor attack for three cross-modal hashing methods, including DCMH, CPAH, DADH. All attacked hashing models can be obtained by the following link:
 
 * Deep Cross-Modal Hashing (DCMH): https://github.com/WendellGul/DCMH
